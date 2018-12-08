@@ -1,0 +1,6 @@
+﻿  GameEngine.cpp
+c:\users\user\source\repos\tictactoe\tictactoe\gameengine.cpp(308): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\source\repos\tictactoe\tictactoe\gameengine.cpp(378): warning C4390: ';': empty controlled statement found; is this the intent?
+  TicTacToe.cpp
+  Generating Code...
+  TicTacToe.vcxproj -> C:\Users\User\source\repos\TicTacToe\Debug\TicTacToe.exe
