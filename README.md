@@ -11,9 +11,19 @@ GameEngine.cpp
 Or just open the .sln file with VS Studio 2017 and click run !
 
 ## How To Play
+```
 https://www.wikihow.com/Play-Tic-Tac-Toe
+```
 
+## Documentation
+```
+https://docs.google.com/document/d/1u7eQ13xSnCAmz6tQlT0fXuVxuT_zqlySF0yp763Z3bs/edit?usp=sharing
+```
 
+## Demo
+```
+https://drive.google.com/open?id=1Jymr3a3yycqw-pq83ANb0V1Dvt98iGig
+```
 
 ## Credits
 ```
